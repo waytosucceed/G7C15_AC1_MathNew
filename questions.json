@@ -1,0 +1,32 @@
+[
+  {
+      "question": "Estimate the size of this angle.",
+      "options": ["74°", "95°", "160°", "105°"],
+      "correct": 0,
+      "img": "./assests/images/1.jpg" 
+  },
+  {
+      "question": "Choose the best estimation for this angle.",
+      "options": ["141°", "189°", "349°", "161°"],
+      "correct": 2,
+      "img": "./assests/images/2.jpg" 
+  },
+  {
+      "question": "Identify the given angle in the figure below.",
+      "options": ["Acute angle", "Obtuse angle", "Reflex angle", "Straight angle"],
+      "correct": 0,
+      "img": "./assests/images/3.jpg" 
+  },
+  {
+      "question": "Estimate the size of this angle.",
+      "options": ["360°", "90°", "180°", "45°"],
+      "correct": 2,
+      "img": "./assests/images/4.jpg" 
+  },
+  {
+      "question": "What type of angle is 162°?",
+      "options": ["Acute angle", "Right angle", "Obtuse angle", "Straight angle"],
+      "correct": 2,
+      "img": "./assests/images/5.jpg" 
+  }
+]
